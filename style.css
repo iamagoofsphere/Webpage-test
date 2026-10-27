@@ -558,6 +558,10 @@ footer a {
 
     #footer-left, 
     #footer-right {
-        width: 50%;
+        width: 40%;
+    }
+
+    footer a {
+        font-size: 10px;
     }
 }
