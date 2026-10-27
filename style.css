@@ -395,6 +395,7 @@ footer {
     display: grid;
     gap: 12px;
     height: 100%;
+    width: fit-content;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(3, 1fr);
 }
@@ -558,7 +559,7 @@ footer a {
 
     #footer-left, 
     #footer-right {
-        width: 40%;
+        width: 50%;
     }
 
     footer a {
